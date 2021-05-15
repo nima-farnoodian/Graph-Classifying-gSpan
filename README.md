@@ -6,3 +6,5 @@ top-k frequent subgraphs that have high confidence from two datasets (mutagen (p
 the gSpan algorithm to extract the subgraphs based on which the classifiers are trained. Since the gSpan
 algorithm was beforehand given, our effort mostly focused on defining different tasks on gSpan to extract
 subgraphs and train different classifiers as requested.
+
+gSpan Algorithm: (https://github.com/betterenvi/gSpan).
